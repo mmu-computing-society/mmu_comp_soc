@@ -27,7 +27,7 @@ repository:        sean12697/mmu_comp_soc
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day # minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
