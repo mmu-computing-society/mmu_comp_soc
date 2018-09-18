@@ -28,6 +28,7 @@ To keep up-to-date join our [Facebook Group](https://www.facebook.com/groups/MMU
 *   [Manchester Student Tech Attendees](http://mcrmeetup.space/)
 *   [Full Stack of Pancakes - Coding Workshops (17-23rd Sept')](https://www.eventbrite.com/o/full-stack-of-pancakes-14858329308) 
 *   [Major League Hacking (MLH)](https://mlh.io/)
+*   [Web Developer Summer (General) Recommendations](http://55060509.webdevmmu.uk/summer.html)
 
 ## Society Calendar
 
