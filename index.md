@@ -25,6 +25,7 @@ To keep up-to-date join our [Facebook Group](https://www.facebook.com/groups/MMU
 ## Essential Links
 
 *   [Student Developer Pack - GitHub Education](https://education.github.com/pack)
+*   [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/)
 *   [Manchester Student Tech Attendees](http://mcrmeetup.space/)
 *   [Full Stack of Pancakes - Coding Workshops (17-23rd Sept')](https://www.eventbrite.com/o/full-stack-of-pancakes-14858329308) 
 *   [Major League Hacking (MLH)](https://mlh.io/)
