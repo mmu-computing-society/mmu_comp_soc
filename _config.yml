@@ -18,8 +18,8 @@ email: mmucomputingsoc@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a new Jekyll site for the MMU Computing Society (MMUCompSoc) which
   will be used to host various useful links.
-baseurl: "/mmu_comp_soc" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://mmucompsoc.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MMUCompSoc
 facebook_username: groups/MMUComputingSociety
 repository:        sean12697/mmu_comp_soc
