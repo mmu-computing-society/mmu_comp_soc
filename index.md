@@ -112,3 +112,13 @@ Slack, if you do not know, is a messaging service (similar to Discord) which mos
 *   [Free Code Camp Manchester (UK)](https://fcc-mcr-invite.herokuapp.com/)
 *   [North West Tech Community](http://mcrtech-slack.herokuapp.com/)
 *   [Candles (UX)](https://slofile.com/slack/withcandles)
+
+## Discord
+
+This form of communication is often favoured by gamers, so there are a few channels worth mention specifically for students in the CMDT faculty:
+
+*   [MMU CMDT Unofficial](https://discord.gg/KX4KPet)
+
+This Discord Server has been for us all to use in the CMDT faculty, the goals for it are to help form a community (all social/gaming/academic) and relay information about any important events internally or externally (with dedicated channels), helping improve employability and hopefully aid in other ways.
+
+This is unofficial from the university so they cannot be held responsible nor can any staff member (so do reach out to them with any more pressing questions), also plagiarism is against university policy so be careful what you post and really, just try to have fun.
