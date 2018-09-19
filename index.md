@@ -49,12 +49,16 @@ Below is another calendar, the [technw](http://technw.uk/calendar) calendar, whi
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=a73q3trj8bssqjifgolb1q8fr4%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=Europe%2FLondon" style="border-width:0" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
-## Awards / Qualifications
+## Awards / Activities
 
-These are various types of activities which you can do and earn an award/certificate upon completion, some being part of the University:
+These are various types of activities which you can do and earn an award/certificate upon completion, the first few links being backed/ran by the University:
 
 *   [iDEA](https://idea.org.uk/)
 *   [Science and Engineering Extra-Curricular Award](https://mmusseblog.wordpress.com/2017/04/28/science-and-engineering-extra-curricular-award/)
+*   [Futures Skills Award](https://www2.mmu.ac.uk/careers/students/futures-skills-award/)
+
+Others:
+
 *   [GitHub Campus Expert](https://education.github.com/students/experts)
 *   [Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)
 *   [Hour of Code](https://hourofcode.com/uk)
