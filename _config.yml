@@ -23,6 +23,7 @@ url: "http://mmucompsoc.com" # the base hostname & protocol for your site, e.g. 
 twitter_username: MMUCompSoc
 facebook_username: groups/MMUComputingSociety
 repository:        sean12697/mmu_comp_soc
+google_analytics:  UA-126118319-1
 # github_username:  jekyll
 
 # Build settings
