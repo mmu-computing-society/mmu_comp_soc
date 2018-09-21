@@ -35,6 +35,8 @@ To keep up-to-date join our [Facebook Group](https://www.facebook.com/groups/MMU
 
 (please note it might be empty or have placeholder events whiles we organise them)
 
+To check out previous workshops we have ran go to the ["Workshop Archive"]({{site.url}}{{page.url}}#workshop-archive) section
+
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=mmucomputingsoc%40gmail.com&amp;color=%231B887A&amp;ctz=Europe%2FLondon" style="border-width:0" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
 ## Internal Events
@@ -104,15 +106,6 @@ These are various groups that need competent programmers (third year students re
 *   [EndHomelessness (C#/.Net/Front-end)](https://www.meetup.com/EndHomelessness-digital-community/){:target='_blank'}
 *   [CodeYourFuture (HTML, CSS, JS, React and/or Node)](https://www.meetup.com/CodeYourFuture-Manchester/){:target='_blank'}
 
-## Slacks
-
-Slack, if you do not know, is a messaging service (similar to Discord) which most people in the industry use, due to this various communities have set up their own Slack channels to communicate, so here are most listed below:
-
-*   [CodeUp Manchester](https://codeupmanchester.github.io/resources.html){:target='_blank'}
-*   [Free Code Camp Manchester (UK)](https://fcc-mcr-invite.herokuapp.com/){:target='_blank'}
-*   [North West Tech Community](http://mcrtech-slack.herokuapp.com/){:target='_blank'}
-*   [Candles (UX)](https://slofile.com/slack/withcandles){:target='_blank'}
-
 ## Discord
 
 This form of communication is often favoured by gamers, so there are a few channels worth mention specifically for students in the CMDT faculty:
@@ -122,3 +115,21 @@ This form of communication is often favoured by gamers, so there are a few chann
 This Discord Server has been for us all to use in the CMDT faculty, the goals for it are to help form a community (all social/gaming/academic) and relay information about any important events internally or externally (with dedicated channels), helping improve employability and hopefully aid in other ways.
 
 This is unofficial from the university so they cannot be held responsible nor can any staff member (so do reach out to them with any more pressing questions), also plagiarism is against university policy so be careful what you post and really, just try to have fun.
+
+## Slacks
+
+Slack, if you do not know, is a messaging service (similar to Discord) which most people in the industry use, due to this various communities have set up their own Slack channels to communicate, so here are most listed below:
+
+*   [CodeUp Manchester](https://codeupmanchester.github.io/resources.html){:target='_blank'}
+*   [Free Code Camp Manchester (UK)](https://fcc-mcr-invite.herokuapp.com/){:target='_blank'}
+*   [North West Tech Community](http://mcrtech-slack.herokuapp.com/){:target='_blank'}
+*   [Candles (UX)](https://slofile.com/slack/withcandles){:target='_blank'}
+
+## Workshop Archive
+<!-- This is at the end since it could become a cumbersome list -->
+Here are previous workshops we have ran in the past and can present again: 
+
+{% assign files = site.static_files | where: "powerpoint", true %}
+{% for file in files %}
+  [{{file.basename}}]({{site.url}}{{file.path}})
+{% endfor %}

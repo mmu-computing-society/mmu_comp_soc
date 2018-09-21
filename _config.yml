@@ -33,6 +33,13 @@ plugins:
   - jekyll-feed
   - jekyll-target-blank
 
+# Files
+defaults:
+  - scope:
+      path: "assets/workshops"
+    values:
+      powerpoint: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
