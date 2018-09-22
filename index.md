@@ -22,13 +22,26 @@ To join the Computing Society go to [The Union](https://www.theunionmmu.org/grou
 
 To keep up-to-date join our [Facebook Group](https://www.facebook.com/groups/MMUComputingSociety){:target='_blank'} and follow our [Twitter](https://twitter.com/MMUCompSoc).
 
+## Essential Advice
+
+To all/any of our members studying a Computing related course, or wish to go into industry from another course, here are a few key pieces of advice which you should follow:
+
+*   Attend [Hackathons / Game Jams]({{site.url}}{{page.url}}#hackathons--game-jams)
+*   Go to [networking events]({{site.url}}{{page.url}}#external-events--networking), become part of the local tech' community
+*   Start using [LinkedIn](http://linkedin.com/){:target='_blank'} and add people you meet from the above events
+*   Take part and earn University lead/ran [Awards]({{site.url}}{{page.url}}#awards--activities)
+*   [Volunteering]({{site.url}}{{page.url}}#volunteering) looks good on your CV and can improve your skills
+*   Mentoring at [Learning Groups]({{site.url}}{{page.url}}#learning-groups) (similar to the above)
+*   Learn Git/GitHub and maybe contribute to this project
+*   MMU has a useful [My Career Hub](mycareerhub.mmu.ac.uk){:target='_blank'} section
+
+Apart from these generic bullet points, don't just focus on the work to get you a high class honours degree. You should work on projects outside of University, no matter if that's following up on pieces of work from assignments, or working on new ones.
+
 ## Essential Links
 
+*   [GitHub Learning Lab](https://lab.github.com/){:target='_blank'}
 *   [Student Developer Pack - GitHub Education](https://education.github.com/pack){:target='_blank'}
 *   [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/){:target='_blank'}
-*   [Manchester Student Tech Attendees](http://mcrmeetup.space/){:target='_blank'}
-*   [Full Stack of Pancakes - Coding Workshops (17-23rd Sept')](https://www.eventbrite.com/o/full-stack-of-pancakes-14858329308){:target='_blank'}
-*   [Major League Hacking (MLH)](https://mlh.io/){:target='_blank'}
 *   [Web Developer Summer (General) Recommendations](http://55060509.webdevmmu.uk/summer.html){:target='_blank'}
 
 ## Society Calendar
@@ -43,11 +56,22 @@ To check out previous workshops we have ran go to the ["Workshop Archive"]({{sit
 
 COMING SOON
 
+## Hackathons / Game Jams
+
+[Major League Hacking (MLH)](https://mlh.io/){:target='_blank'} is the official student hackathon league and can be a useful place to visit, but here are the hackathons and game jams we are aware of in the UK (mainly in the North West):
+
+*   [Hack Manchester 2018](https://www.hac100.com/event/hack-mcr-18/){:target='_blank'} (£20): 27-28th October
+*   [HackTheMidlands 3.0](http://hackthemidlands.co.uk/){:target='_blank'} - Birmingham (Free): 3rd-4th November
+*   [Hack Sussex](https://hacksussex.co.uk/){:target='_blank'} (Free): 10th-11th November
+*   [DurHack 2018](https://durhack.com/){:target='_blank'} - Durham (Free): 17th-18th November
+
 ## External Events / Networking
 
 Many external tech groups that usually meet up regularly (often Monthly) can be found on [Meetup](http://meetup.com/){:target='_blank'}, although you can also use [this](http://mcrmeetup.tech/){:target='_blank'} other website I (Sean) have created which curates specifically the Tech Meetup Groups in Manchester and lets you view all their events.
 
 Below is another calendar, the [technw](http://technw.uk/calendar){:target='_blank'} calendar, which has been created by [Gemma Cameron](https://twitter.com/ruby_gem){:target='_blank'} from the Co-op for event organisers to add their events, although often you will have to RSVP through Meetup or Eventbrite, so do check the details of an event you are interested in attending.
+
+Also, if you would like to attend networking events with fellow students, use [this](http://mcrmeetup.space/){:target='_blank'} tool to help find and message them via Meetup (or Twitter/Facebook if they're linked on their profile), if you would like to be added to that list, please read the text in the information drop-down section on the website.
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=a73q3trj8bssqjifgolb1q8fr4%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=Europe%2FLondon" style="border-width:0" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 
@@ -89,6 +113,17 @@ Ideal for those who have knowledge of programming, but are rusty or want to prac
 *   [Code Wars](https://www.codewars.com/){:target='_blank'}
 *   [CodinGame](https://www.codingame.com/){:target='_blank'}
 *   [Edabit](https://edabit.com/){:target='_blank'}
+*   [CSS Diner](http://flukeout.github.io/){:target='_blank'}
+
+## IDE's (Editors)
+
+If you were to write code you want somewhere to write it, maybe in Notepad for a simple website, but here are some very useful IDE's ( Integrated Development Environment) which provide many useful features:
+
+*  [Visual Studio Code](https://code.visualstudio.com/){:target='_blank'} (Generic)
+*  [Atom](https://atom.io/){:target='_blank'} (Generic)
+*  [Sublime](https://www.sublimetext.com){:target='_blank'} (Generic, £60~ licence)
+*  [Brackets](http://brackets.io/){:target='_blank'} (Generic)
+*  [Jet Brains (Free for Students)](https://www.jetbrains.com/student/){:target='_blank'} (Various)
 
 ## Learning Groups
 
@@ -101,7 +136,7 @@ Here are groups that meetup usually monthly around Manchester, in which people a
 
 ## Volunteering
 
-These are various groups that need competent programmers (third year students recommended) of various backgrounds to volunteer their knowledge/skills:
+The Union does have a dedicated [volunteering service](https://www.theunionmmu.org/volunteering){:target='_blank'}, but here are various groups that need competent programmers (third year students recommended) of various backgrounds to volunteer their knowledge/skills:
 
 *   [EndHomelessness (C#/.Net/Front-end)](https://www.meetup.com/EndHomelessness-digital-community/){:target='_blank'}
 *   [CodeYourFuture (HTML, CSS, JS, React and/or Node)](https://www.meetup.com/CodeYourFuture-Manchester/){:target='_blank'}
@@ -129,7 +164,6 @@ Slack, if you do not know, is a messaging service (similar to Discord) which mos
 <!-- This is at the end since it could become a cumbersome list -->
 Here are previous workshops we have ran in the past and can present again: 
 
-{% assign files = site.static_files | where: "powerpoint", true %}
-{% for file in files %}
-  [{{file.basename}}]({{site.url}}{{file.path}})
+{% assign files = site.static_files | where: "workshop", true %}
+{% for file in files %} *  [{{file.basename}}]({{site.url}}{{file.path}})
 {% endfor %}
