@@ -65,6 +65,7 @@ These are events usually ran on MMU ground and usually hosted/ran by the Univers
 
 *   [Hack Manchester 2018](https://www.hac100.com/event/hack-mcr-18/){:target='_blank'} (£20): 27-28th October
 *   [HackTheMidlands 3.0](http://hackthemidlands.co.uk/){:target='_blank'} - Birmingham (Free): 3rd-4th November
+*   [GreatUniHack 2018](http://greatunihack.com/){:target='_blank'} - Manchester (Free): 10-11th November
 *   [Hack Sussex](https://hacksussex.co.uk/){:target='_blank'} (Free): 10th-11th November
 *   [DurHack 2018](https://durhack.com/){:target='_blank'} - Durham (Free): 17th-18th November
 
