@@ -126,6 +126,7 @@ If you were to write code you want somewhere to write it, maybe in Notepad for a
 *  [Atom](https://atom.io/){:target='_blank'} (Generic)
 *  [Sublime](https://www.sublimetext.com){:target='_blank'} (Generic, £60~ licence)
 *  [Brackets](http://brackets.io/){:target='_blank'} (Generic)
+*  [Vim - the Ubiquitous Text Editor](https://www.vim.org/){:target='_blank'} (Generic)
 *  [Jet Brains (Free for Students)](https://www.jetbrains.com/student/){:target='_blank'} (Various)
 
 ## Learning Groups
