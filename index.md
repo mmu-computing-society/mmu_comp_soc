@@ -42,6 +42,7 @@ Apart from these generic bullet points, don't just focus on the work to get you 
 *   [GitHub Learning Lab](https://lab.github.com/){:target='_blank'}
 *   [Student Developer Pack - GitHub Education](https://education.github.com/pack){:target='_blank'}
 *   [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/){:target='_blank'}
+*   [Awesome Platorm/Programming/CS/More Resources Links](https://github.com/mihaiserban/awesome/blob/master/readme.md){:target='_blank'}
 *   [Web Developer Summer (General) Recommendations](http://55060509.webdevmmu.uk/summer.html){:target='_blank'}
 
 ## Society Calendar
