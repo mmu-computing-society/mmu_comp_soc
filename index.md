@@ -63,9 +63,6 @@ These are events usually ran on MMU ground and usually hosted/ran by the Univers
 
 There are various confrences across the UK that are either free or at a low cost to students, often you find two types, normal confrences with set tracks, then un-confrences which often include set tracks with guest speakers, but also include tracks for people to run their own talks (which is often voted on, on the day).
 
-*   [NUX 7](https://2018.nuxconf.uk/){:target='_blank'} - Manchester (£60 for Students): 19th Oct 2018
-*   [WordCamp (WordPress)](https://2018.manchester.wordcamp.org/){:target='_blank'} - Manchester/MMU (£35): 27th Oct 2018
-
 ## Hackathons / Game Jams
 
 [Major League Hacking (MLH)](https://mlh.io/){:target='_blank'} is the official student hackathon league and can be a useful place to visit, but here are the hackathons and game jams we are aware of in the UK (mainly in the North West):
