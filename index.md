@@ -44,6 +44,7 @@ Apart from these generic bullet points, don't just focus on the work to get you 
 *   [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/){:target='_blank'}
 *   [Awesome Platform/Programming/CS/More Resources Links](https://github.com/mihaiserban/awesome/blob/master/readme.md){:target='_blank'}
 *   [Web Developer Summer (General) Recommendations](http://55060509.webdevmmu.uk/summer.html){:target='_blank'}
+*   [Repl.it (Online IDE)](https://repl.it/{:target='_blank'}
 
 ## Society Calendar
 
@@ -127,6 +128,7 @@ Ideal for those who have knowledge of programming, but are rusty or want to prac
 
 If you were to write code you want somewhere to write it, maybe in Notepad for a simple website, but here are some very useful IDE's ( Integrated Development Environment) which provide many useful features:
 
+*  [Repl.it (Online IDE)](https://repl.it/{:target='_blank'}
 *  [Visual Studio Code](https://code.visualstudio.com/){:target='_blank'} (Generic)
 *  [Atom](https://atom.io/){:target='_blank'} (Generic)
 *  [Sublime](https://www.sublimetext.com){:target='_blank'} (Generic, £60~ licence)
