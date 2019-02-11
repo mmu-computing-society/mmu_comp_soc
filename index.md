@@ -68,11 +68,10 @@ There are various confrences across the UK that are either free or at a low cost
 
 [Major League Hacking (MLH)](https://mlh.io/){:target='_blank'} is the official student hackathon league and can be a useful place to visit, but here are the hackathons and game jams we are aware of in the UK (mainly in the North West):
 
-*   [Hack Manchester 2018](https://www.hac100.com/event/hack-mcr-18/){:target='_blank'} (£20): 27-28th October
-*   [HackTheMidlands 3.0](http://hackthemidlands.co.uk/){:target='_blank'} - Birmingham (Free): 3rd-4th November
-*   [GreatUniHack 2018](http://greatunihack.com/){:target='_blank'} - Manchester (Free): 10-11th November
-*   [Hack Sussex](https://hacksussex.co.uk/){:target='_blank'} (Free): 10th-11th November
-*   [DurHack 2018](https://durhack.com/){:target='_blank'} - Durham (Free): 17th-18th November
+*   [1st Local Transport Ideathon Manchester 2019](https://www.eventbrite.com/e/1st-local-transport-ideathon-manchester-2019-tickets-53567988295){:target='_blank'} (Free): 22-24th February
+*   [Global Legal Hackathon: Manchester](https://glh.hivebrite.com/events/13639){:target='_blank'} (Free): 22-24th February
+*   [Hack on the Beach](https://careers.onthebeach.co.uk/hackathon){:target='_blank'} (Free): 23rd March
+*   [HackMed 2019](https://www.eventbrite.co.uk/e/hackmed-2019-tickets-55562319393?aff=ebdssbdestsearch){:target='_blank'} (Free): 30-21st March
 
 ## External Events / Networking
 
