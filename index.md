@@ -4,7 +4,7 @@
 
 layout: default # home
 ---
-Welcome to the MMU Computing Society, this year (2018/19) your official Society Committee is [Sean O'Mahoney](https://twitter.com/Sean12697){:target='_blank'} as Chairman and [Iqrah Nadeem](https://twitter.com/i_iqrah){:target='_blank'} as Treasurer (also Chair of the [HelloHackers Society](https://twitter.com/helloHackersSoc){:target='_blank'}).
+Welcome to the MMU Computing Society.
 
 We wish to make the Society more collaborative with all that we do, desiring knowledgeable members, or those that have particular digital skills, to participate in the organization of future workshops we run.
 
