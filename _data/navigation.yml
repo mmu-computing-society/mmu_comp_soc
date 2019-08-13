@@ -29,15 +29,15 @@ docs:
       - title: "Intro To Cryptography"
         url: /workshops/Intro To Cryptography (Futures Friday).pptx
       - title: "Intro To Git & GitHub"
-        url: /docs/ui-text/
+        url: /workshops/Intro To Git & GitHub.pptx
       - title: "Intro To HTML & CSS"
-        url: /docs/authors/
+        url: /workshops/Intro To HTML & CSS.pptx
       - title: "Photoshop Illustrations"
-        url: /docs/layouts/
+        url: /workshops/Photoshop Illustrations.pptx
       - title: "Single Page Web App"
-        url: /docs/layouts/
+        url: /workshops/Single Page Web App.pptx
       - title: "Twitter Bot With Node JS"
-        url: /docs/layouts/
+        url: /workshops/Twitter Bot With Node JS.pptx
         
   - title: Useful Links for Programming
     children:
