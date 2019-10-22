@@ -21,8 +21,11 @@ docs:
     children:
       - title: "Welcome"
         url: /resources/intro
-
-  - title: Previous Workshops (.PPT download)
+  - title: 2019 Workshops (.PPT download)
+    children:
+      - title: "Workshop 1: Introduction To Git & GitHub"
+        url: /workshops/Intro to Git & GitHub MMUCompSoc.pptx
+  - title: Legacy Workshops (.PPT download)
     children:
       - title: "Intro To Advanced Photoshop Skills"
         url: /workshops/Intro To Advanced Photoshop Skills.pptx
